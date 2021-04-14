@@ -1,8 +1,10 @@
 # nomeProvisorio
 
 ### PROBLEMA
-Século 21, século do entretenimento, a cada dia que passa surgem mais canais de streaming, e com esses canais mais filmes, mais series e mais documentarios. Entre esse mar de entretenimento, qual dos produtos feitos combina mais com a persona do usuario? qual streaming vale mais apena?
-### MOTIVAÇÃO
+Atualmente surgem diversas plataformas de streaming, mas qual tem o melhor custo beneficio para o usuario.
 
+### MOTIVAÇÃO
+Visto esse mar de entretenimento,  qual dos produtos feitos combina mais com os gostos do usuario? qual streaming vale mais apena assinar para evitar o sentimento de assinar algo e se sentir decepcionado com a assinatura.
 
 ### PROPOSTA DE SOLUÇÃO
+Para evitar que o usuario assine varias plataformas de streaming sem que elas tenham um catalogo que agrade o assinante, um algoritmo que pega os principais gostos do usuario e compara com o catalogo de cada plataforma, para mostrar de forma pratica ao usuario, qual plataforma tem um catalogo que o agrade mais.
