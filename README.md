@@ -13,4 +13,6 @@ Para evitar que o usuario assine varias plataformas de streaming sem que elas te
 
 
 ### Referencias
-https://www.uol.com.br/splash/colunas/guilherme-ravache/2021/04/20/netflix-disney-amazon-e-globo-lutam-contra-disparada-da-pirataria.htm
+https://bcc.ime.usp.br/tccs/2014/marcost/monografia_final.pdf
+http://www.each.usp.br/petsi/jornal/?p=2684
+https://medium.com/data-hackers/deep-learning-para-sistemas-de-recomendação-parte-1-introdução-b19a896c471e
