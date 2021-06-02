@@ -1,7 +1,7 @@
 # nomeProvisorio
 
 ## 1. Introdução(juntar problema com a motivação)
-Atualmente no Brasil existem mais de 10 plataformas de streaming de filmes e series, cada uma com seu catálogo exclusivo, sendo assim fornecendo uma variedade de conteúdo a seus usuários, porém para um brasileiro classe média ou baixa, acaba saindo praticamente impossível de assinar todos os produtos oferecidos, para evitar a pirataria uma boa opção é optar por uma ou duas plataformas que possuem um catálogo que o agrade mais. Mas como ele pode saber dentre essas várias opções qual combina mais com seu gosto?
+Atualmente no Brasil existem mais de 10 plataformas de streaming de filmes e series, cada uma com seu catálogo exclusivo, sendo assim fornecendo uma variedade de conteúdo a seus usuários, porém para um brasileiro classe média ou baixa, acaba sendo praticamente impossível de assinar todos os produtos oferecidos, para evitar a pirataria uma boa opção é optar por uma ou duas plataformas que possuem um catálogo que o agrade mais. Mas como ele pode saber dentre essas várias opções qual combina mais com seu gosto?
 Com o intuito de sanar essa dúvida, uma aplicação que compara os gêneros escolhidos pelo usuário e os gêneros de cada plataforma, numerando e demonstrando ao usuário qual plataforma tem um catálogo que o agrade mais.
 
 ## 2. Fundamentação Teórica
