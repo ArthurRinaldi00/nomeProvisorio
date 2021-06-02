@@ -9,22 +9,20 @@ Nesta seção, aborda-se o conceito de Machine learning e uma breve explicação
 
 ### 2.1 Machine learning
 
-
 ### 2.2 Sistemas de Recomendação
 Sistemas de Recomendação è um conjunto de técnicas e algoritmos que seleciona um item com base nos dados obtidos pelo usuario, Empresas conhecidas por usar essa técnica como exemplo são google, facebook, netflix, amazon. 
 
-
 ## 3. Metodologia e Métodos
-Nesta seção apresentam-se  os  procedimentos  metodol ́ogicos  adotados  neste  trabalho.
+Nesta seção apresentam-se  os  procedimentos  metodológicos  adotados  neste  trabalho.
 
 ### 3.1 Coleta de Dados
-Para o desenvolvilmento desre trabalho sera necessario coleta de duas fontes, Usuario e as plataformas de Streaming.
+Para o desenvolvimento deste trabalho será necessário coleta de duas fontes,  Usuário e as plataformas de Streaming.
 
 ### 3.1.1 Coleta de dados do Usuario
-Para a Coleta de dados do usuario sera necessario por parte do usuario inserir seus tipos favoritos de filmes e series.
+Para a Coleta de dados do usuário será necessário por parte do usuário inserir seus tipos favoritos de filmes e series.
 
 ### 3.1.2 Coleta de dados das Plataformas
-Para a coleta de dados da plataforma sera necessario usar a api de cada plataforma, assim coletando seus filmes e categorizand-os.
+Para a coleta de dados da plataforma será necessário usar a api de cada plataforma, assim coletando seus filmes e categorizando-os.
 
 ## 4. PROPOSTA DE SOLUÇÃO(Conclusão)
 Nesta proposta apresenta-se uma ideia de através da aplicação de machine learning junto com sistema de recomendação, pegar dados inseridos pelo usuário e compará-lo com 
