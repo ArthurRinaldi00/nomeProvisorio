@@ -9,14 +9,15 @@ Nesta seção, aborda-se o conceito de Machine learning e uma breve explicação
 
 ### 2.1 Machine learning
 
+
 ### 2.2 Sistemas de Recomendação
-Sistemas de Recomendação è um conjunto de técnicas e algoritmos que seleciona um item com base nos dados obtidos pelo usuario, Empresas conhecidas por usar essa técnica como exemplo são google, facebook, netflix, amazon. 
+Com a expansão dos serviços sem fio, o número de usuários móveis aumentou rapidamente e a quantidade de informações na internet e no meio sem fio também aumentou exponencialmente. Essa quantidade de informações torna-se difícil de ser monitorada pelos usuários, pois a busca por dados específicos pode custar muito em termos de tempo. Além disso, no cenário móvel, apenas funções simples de pesquisa e navegação estão disponíveis devido ao poder de computação limitado de um telefone móvel. Portanto, é mais preferível deixar que as informações desejáveis encontrem os clientes, em vez de deixá-los pesquisar informações específicas quando necessário(Amer A. Sallam. Global Trends in Computing and Communication Systems, 2011, Adaptado).
 
 ## 3. Metodologia e Métodos
 Nesta seção apresentam-se  os  procedimentos  metodológicos  adotados  neste  trabalho.
 
 ### 3.1 Coleta de Dados
-Para o desenvolvimento deste trabalho será necessário coleta de duas fontes,  Usuário e as plataformas de Streaming.
+Para o desenvolvimento deste trabalho será necessário coleta de duas fontes,  Usuário e as plataformas de Streaming, Pós a coleta de dados, o sistema utilizara da idéia de .
 
 ### 3.1.1 Coleta de dados do Usuario
 Para a Coleta de dados do usuário será necessário por parte do usuário inserir seus tipos favoritos de filmes e series.
@@ -26,9 +27,11 @@ Para a coleta de dados da plataforma será necessário usar a api de cada plataf
 
 ## 4. PROPOSTA DE SOLUÇÃO(Conclusão)
 Nesta proposta apresenta-se uma ideia de através da aplicação de machine learning junto com sistema de recomendação, pegar dados inseridos pelo usuário e compará-lo com 
-o catálogo de cada plataforma, retornando assim uma lista indicando qual plataforma atendera mais eu gosto.
+o catálogo de cada plataforma, retornando assim uma lista indicando qual plataforma atendera mais seu gosto.
 
 ## Referencias
 - https://bcc.ime.usp.br/tccs/2014/marcost/monografia_final.pdf
+- http://www.cs.umd.edu/~samir/498/Amazon-Recommendations.pdf
+- https://link.springer.com/chapter/10.1007/978-3-642-29219-4_30
 - https://www.cnnbrasil.com.br/tecnologia/2020/03/09/servicos-de-streaming-conheca-as-novas-plataformas-que-chegam-ao-brasil
 - https://exame.com/tecnologia/netflix-prime-video-e-disney-quanto-custa-assinar-streaming-no-brasil/
