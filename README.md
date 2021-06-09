@@ -25,7 +25,7 @@ Para a Coleta de dados do usuário será necessário por parte do usuário inser
 ### 3.1.2 Coleta de dados das Plataformas
 Para a coleta de dados da plataforma será necessário usar a api de cada plataforma, caso a plataforma não possua uma api própria como a Netflix, será necessário um web bot para coletar o catalogo e categorizando-os.
 
-## 4. PROPOSTA DE SOLUÇÃO
+## 4. Conclusão
 Nesta proposta apresenta-se uma ideia de através da aplicação de um sistema de recomendação, pegar dados inseridos pelo usuário e compará-lo com 
 o catálogo de cada plataforma disponivel no Brasil, retornando assim uma lista indicando qual plataforma atendera mais seu gosto.
 
