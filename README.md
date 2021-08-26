@@ -24,6 +24,7 @@ Para o desenvolvimento deste trabalho será necessário coleta de duas fontes, U
 ### 3.1.1 Coleta de dados do Usuário
 Para a Coleta de dados do usuário será necessário por parte do usuário inserir suas categorias de filmes e series na interface do sistema.
 
+
 ### 3.1.2 Coleta de dados das Plataformas
 Para a coleta de dados da plataforma será necessário usar a api de cada plataforma, caso a plataforma não possua uma api própria como a Netflix, será necessário um web bot para coletar o catalogo e categorizando-os.
 
